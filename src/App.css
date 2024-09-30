@@ -1,0 +1,41 @@
+/* Dark Theme */
+.dark-theme {
+  background-color: #101113;
+  color: white;
+}
+
+/* Light Theme */
+.light-theme {
+  background-color: white;
+  color: black;
+}
+
+/* Additional CSS adjustments for both themes */
+.profile_details {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px;
+}
+
+.about {
+  padding: 20px;
+  margin-left: 200px;
+  margin-top: 100px;
+}
+
+.about p {
+  padding-top: 10px;
+  padding-right: 80px;
+}
+
+.job_catogery {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.acting, .Modeling, .Ads {
+  padding: 10px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
